@@ -1,4 +1,3 @@
 node_modules
 .ds_store
-package-lock.json
 yarn.lock
